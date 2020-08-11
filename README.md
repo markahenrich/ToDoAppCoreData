@@ -1,2 +1,2 @@
 # ToDoAppCoreData
-A to do with MVVM design pattern and Core Data for persistence. 
+A to do app with MVVM design pattern and Core Data for persistence. 
